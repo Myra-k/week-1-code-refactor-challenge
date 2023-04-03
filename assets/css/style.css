@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* below is the body */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* below are the headers */
 
 .header {
     padding: 20px;
@@ -21,7 +25,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
 
 .header div {
@@ -41,14 +45,20 @@ body {
     margin-left: 25px;
 }
 
+/* below is the header for top three links */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* below is the description for links */
+
 p {
     font-size: 16px;
 }
+
+/* below is the hero image */
 
 .hero {
     height: 800px;
@@ -58,6 +68,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* below are the images */
 
 .float-left {
     float: left;
@@ -69,11 +81,15 @@ p {
     margin-left: 25px;
 }
 
+/* below is the content */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* below is the benifits section */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +150,8 @@ p {
     max-width: 150px;
 }
 
+/* below are the imgs/description for benifit section */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -173,6 +191,8 @@ p {
     max-height: 200px;
 }
 
+/* below are the headers */
+
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,6 +207,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* below is the footer */
 
 .footer {
     padding: 30px;
