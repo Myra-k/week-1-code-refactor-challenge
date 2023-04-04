@@ -1,6 +1,6 @@
 # week-1-code-refactor-challenge
 
-Code Refactor challenge.
+Code Refactor For Horiseon Webpage.
 
  # <Horiseon Social Solutions Services>
 
@@ -46,9 +46,16 @@ N/A
 
 To use this website, you can look at the description by either scrolling down or clicking on one of the three links at the top of the webpage, which will take you straight to that specific description.
 
-## Credits 
+## Contributions 
 
-Myra Khatoon
+* Horiseon Webpage Created by UOB Bootcamp
+* Code Refactoring Completed By Myra Khatoon
+
+## Review
+
+ * URL Of Deployed Application (https://myra-k.github.io/week-1-code-refactor-challenge/)
+
+ * URL Of GitHub Repository (git@github.com:Myra-k/week-1-code-refactor-challenge.git)
 
 ## License
 
