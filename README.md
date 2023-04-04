@@ -2,7 +2,7 @@
 
 Code Refactor challenge.
 
-#<Horiseon Social Solutions Services>
+ # <Horiseon Social Solutions Services>
 
 ## User Story
 
@@ -33,6 +33,10 @@ THEN I find a concise, descriptive title
 
 This website was created for individuals that were seeking knowledge in regards to social media. It contains descriptions for search engine optimization, online repuation managment, social media marketing, cost managment, brand awareness and lead generation. I made changes in order to make the website more accessible for example used semantic HTML elements, adding accessbile alt attributes, adding a concise and descriptive title, made sure all links were functioning and notes in HTML/CSS.
 
+## Deployed Page
+
+![alt text] (https://raw.githubusercontent.com/Myra-k/week-1-code-refactor-challenge/main/assets/images/Screenshot.png)
+
 ## Installation
 
 N/A
@@ -43,7 +47,7 @@ To use this website, you can look at the description by either scrolling down or
 
 ## Credits 
 
-N/A
+Myra Khatoon
 
 ## License
 
