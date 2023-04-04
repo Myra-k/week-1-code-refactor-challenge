@@ -55,7 +55,7 @@ To use this website, you can look at the description by either scrolling down or
 
  * URL Of Deployed Application (https://myra-k.github.io/week-1-code-refactor-challenge/)
 
- * URL Of GitHub Repository (git@github.com:Myra-k/week-1-code-refactor-challenge.git)
+ * URL Of GitHub Repository (https://github.com/Myra-k/week-1-code-refactor-challenge.git)
 
 ## License
 
