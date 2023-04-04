@@ -35,7 +35,8 @@ This website was created for individuals that were seeking knowledge in regards 
 
 ## Deployed Page
 
-![alt text] (https://raw.githubusercontent.com/Myra-k/week-1-code-refactor-challenge/main/assets/images/Screenshot.png)
+![Deployed page screenshot](./assets/images/Screenshot.png)
+
 
 ## Installation
 
